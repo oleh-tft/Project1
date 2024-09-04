@@ -8,5 +8,5 @@ void SetPos(int x, int y)
 
 int main()
 {
-
+	SetPos(5, 10);
 }
